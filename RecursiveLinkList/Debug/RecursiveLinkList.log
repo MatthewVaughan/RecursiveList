@@ -1,0 +1,5 @@
+﻿  List.cpp
+c:\users\mattm_000\documents\visual studio 2015\projects\cs2420\recursivelinklist\recursivelinklist\list.cpp(148): warning C4715: 'List::findH': not all control paths return a value
+c:\users\mattm_000\documents\visual studio 2015\projects\cs2420\recursivelinklist\recursivelinklist\list.cpp(179): warning C4715: 'List::sizeH': not all control paths return a value
+  RecursiveLinkList.vcxproj -> C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\CS2420\RecursiveLinkList\Debug\RecursiveLinkList.exe
+  RecursiveLinkList.vcxproj -> C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\CS2420\RecursiveLinkList\Debug\RecursiveLinkList.pdb (Partial PDB)
